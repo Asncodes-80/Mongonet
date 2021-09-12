@@ -112,6 +112,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\DeleteController.cs" />
+    <Compile Include="Controller\UpdateController.cs" />
+    <Compile Include="Model\CarStruct.cs" />
+    <Compile Include="Controller\GetController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
